@@ -1,2 +1,3 @@
-# HireLens-2.0-AI-Recruiter
-AI-powered resume ranking tool that scores and ranks multiple resumes against a job description in 30 seconds using ATS logic and Gemini AI. Built with Python &amp; Streamlit.
+🚀 LIVE DEMO: https://hirelens-20-ai-recruiter-vgd2p2zmwq26xj4vxkzzap.streamlit.app/
+
+HireLens 2.0 - AI Recruiter that ranks 11 resumes in 30 seconds using Google Gemini AI
